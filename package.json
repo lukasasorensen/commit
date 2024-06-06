@@ -8,7 +8,7 @@
     "commit": "./commit.sh"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",
