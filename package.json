@@ -1,5 +1,5 @@
 {
-  "name": "@lsorensen/commit",
+  "name": "@lukasasorensen/commit",
   "version": "1.0.0",
   "description": "git commit helper that prefixes git commits with JIRA card from the branch",
   "main": "./commit.sh",
