@@ -1,0 +1,15 @@
+{
+  "name": "@lsorensen/commit",
+  "version": "1.0.0",
+  "description": "git commit helper that prefixes git commits with JIRA card from the branch",
+  "main": "./commit.sh",
+  "private": false,
+  "bin": {
+    "commit": "./commit.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lukas Sorensen",
+  "license": "ISC"
+}
